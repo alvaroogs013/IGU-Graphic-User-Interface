@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Practica_Final_IGU_3._0.Coches" BaseTypeListCollapsed="true">
+    <Position X="5" Y="1.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAQABAEEQAwBIAoIAAAKAAEgAAAQAAIAAgBCAAMAAg=</HashCode>
+      <FileName>Coches.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Right" Position="0.362" />
+  </Class>
+  <Class Name="Practica_Final_IGU_3._0.Repostajes" BaseTypeListCollapsed="true">
+    <Position X="7.5" Y="5.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAEAIAAAAAAIwAAACEAAAAAAQAAAAEA=</HashCode>
+      <FileName>Coches.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Practica_Final_IGU_3._0.MainWindow" BaseTypeListCollapsed="true">
+    <Position X="12.5" Y="0.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAACYBBAAApAAAAAAAAAIAAAAAAAACAAYAgE=</HashCode>
+      <FileName>MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Left" Position="2.216" />
+  </Class>
+  <Class Name="Practica_Final_IGU_3._0.Model" BaseTypeListCollapsed="true">
+    <Position X="10" Y="3.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAIAAAICGAIAAAgEEAAABAAAAQAAAAAAA=</HashCode>
+      <FileName>Model.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.263" />
+  </Class>
+  <Class Name="Practica_Final_IGU_3._0.Ventana2" BaseTypeListCollapsed="true">
+    <Position X="2" Y="2.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AgACAgAAAAAAAIBAARACAAAAAAAADgAQAAkCAAABAAA=</HashCode>
+      <FileName>Ventana2.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,27 @@
+﻿<Window x:Class="Practica_Final_IGU_3._0.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Practica_Final_IGU_3._0"
+        mc:Ignorable="d"
+        Title="Ventana1" Height="600" Width="900" SizeChanged="Window_SizeChanged" ResizeMode="CanResizeWithGrip"  Closing="Window_Closing" Background="#dfe3ee">
+
+    <DockPanel>
+        <Menu x:Name="menu" DockPanel.Dock="Top" Height="25" Width="50" HorizontalAlignment="Left" Margin="5">
+            <MenuItem Header="_Menu" Height="25" Width="50">
+                <MenuItem Name="ayuda" Header="_Ayuda" IsEnabled="False"/>
+                <MenuItem Name="Secundaria" Header="_Ventana Secundaria" Click="secundaria_Click"/>
+                <MenuItem Name="gestion" Header="_Gestionar datos" IsEnabled="False"/>
+                <MenuItem Name="salir" Header="_Salir" Click="salir_Click"/>
+            </MenuItem>
+        </Menu>
+        <Grid>
+
+
+
+            <Canvas Name="Lienzo" Margin="16,24,16,24" Cursor="Arrow" Background="#dfe3ee"/>
+
+        </Grid>
+    </DockPanel>
+</Window>
