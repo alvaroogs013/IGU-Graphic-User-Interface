@@ -6,15 +6,15 @@
     <p>The application provides the following functionalities:</p>
     <ul>
         <li>View all vehicle data in a main window, with details of a selected vehicle displayed below.</li>
-      ![Ventana2](https://github.com/alvaroogs013/IGU-Graphic-User-Interface/assets/131161276/763aa6f8-6b12-49fa-b0e6-bd41a4daee2e)
+          <img src="https://github.com/alvaroogs013/IGU-Graphic-User-Interface/assets/131161276/763aa6f8-6b12-49fa-b0e6-bd41a4daee2e"/>
         <li>Add new cars through a dedicated window.</li>
-      ![EntradaDatos](https://github.com/alvaroogs013/IGU-Graphic-User-Interface/assets/131161276/f7986a13-b048-4e54-aa37-bca48bc946ba)
+        <img src="https://github.com/alvaroogs013/IGU-Graphic-User-Interface/assets/131161276/f7986a13-b048-4e54-aa37-bca48bc946ba"/>
         <li>Add some usage for any car<li>
-          ![EntradaUsos](https://github.com/alvaroogs013/IGU-Graphic-User-Interface/assets/131161276/35bd895b-fb4c-4aa1-8059-f8236b3bdfe8)
+            <img src="https://github.com/alvaroogs013/IGU-Graphic-User-Interface/assets/131161276/35bd895b-fb4c-4aa1-8059-f8236b3bdfe8"/>
          <li>Analyze car usage data through line and bar charts in separate windows.</li>
-            ![VisualizacionDatos](https://github.com/alvaroogs013/IGU-Graphic-User-Interface/assets/131161276/79f9b98c-44b3-44f9-8c37-29fd0f750b0a)
-           ![VisualizaciónUsos](https://github.com/alvaroogs013/IGU-Graphic-User-Interface/assets/131161276/7e1504c9-5144-4ebf-9312-14ac7af48f37)
-    </ul>
+            <img src="https://github.com/alvaroogs013/IGU-Graphic-User-Interface/assets/131161276/79f9b98c-44b3-44f9-8c37-29fd0f750b0a"/>
+            <img src="https://github.com/alvaroogs013/IGU-Graphic-User-Interface/assets/131161276/7e1504c9-5144-4ebf-9312-14ac7af48f37"/>
+   </ul>
 
   <h2>MainWindow Class</h2>
     <p>The <strong>MainWindow</strong> class handles the main interface and includes the following methods:</p>
